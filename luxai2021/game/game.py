@@ -12,6 +12,7 @@ from .position import Position
 from .constants import Constants, LuxMatchConfigs_Default
 from .game_map import GameMap
 from .unit import Worker, Cart
+from .game_constants import GAME_CONSTANTS
 
 INPUT_CONSTANTS = Constants.INPUT_CONSTANTS
 DIRECTIONS = Constants.DIRECTIONS
